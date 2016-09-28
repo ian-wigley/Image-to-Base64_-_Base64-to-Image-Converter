@@ -1,0 +1,12 @@
+c:\users\wigleyi\documents\visual studio 2013\Projects\JSONConverter\JSONConverter\bin\Debug\JSONConverter.exe.config
+c:\users\wigleyi\documents\visual studio 2013\Projects\JSONConverter\JSONConverter\obj\Debug\JSONConverter.csprojResolveAssemblyReference.cache
+c:\users\wigleyi\documents\visual studio 2013\Projects\JSONConverter\JSONConverter\obj\Debug\JSONConverter.Form1.resources
+c:\users\wigleyi\documents\visual studio 2013\Projects\JSONConverter\JSONConverter\obj\Debug\JSONConverter.Properties.Resources.resources
+c:\users\wigleyi\documents\visual studio 2013\Projects\JSONConverter\JSONConverter\obj\Debug\JSONConverter.csproj.GenerateResource.Cache
+c:\users\wigleyi\documents\visual studio 2013\Projects\JSONConverter\JSONConverter\bin\Debug\JSONConverter.exe
+c:\users\wigleyi\documents\visual studio 2013\Projects\JSONConverter\JSONConverter\bin\Debug\JSONConverter.pdb
+c:\users\wigleyi\documents\visual studio 2013\Projects\JSONConverter\JSONConverter\obj\Debug\JSONConverter.exe
+c:\users\wigleyi\documents\visual studio 2013\Projects\JSONConverter\JSONConverter\obj\Debug\JSONConverter.pdb
+C:\Users\_Ian_\Desktop\03.JSONConverter\JSONConverter\bin\Debug\JSONConverter.exe.config
+C:\Users\_Ian_\Desktop\03.JSONConverter\JSONConverter\obj\Debug\JSONConverter.exe
+C:\Users\_Ian_\Desktop\03.JSONConverter\JSONConverter\obj\Debug\JSONConverter.pdb

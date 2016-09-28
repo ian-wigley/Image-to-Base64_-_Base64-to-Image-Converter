@@ -1,0 +1,17 @@
+I:\____-_2016 Projects_\03.Base64Converter\Base64Converter\bin\Release\JSONConverter.exe.config
+I:\____-_2016 Projects_\03.Base64Converter\Base64Converter\bin\Release\JSONConverter.exe
+I:\____-_2016 Projects_\03.Base64Converter\Base64Converter\bin\Release\JSONConverter.pdb
+I:\____-_2016 Projects_\03.Base64Converter\Base64Converter\obj\Release\Base64Converter.Base64Converter.resources
+I:\____-_2016 Projects_\03.Base64Converter\Base64Converter\obj\Release\JSONConverter.Properties.Resources.resources
+I:\____-_2016 Projects_\03.Base64Converter\Base64Converter\obj\Release\Image-to-Base64_-_Base64-to-Image-Converter.csproj.GenerateResource.Cache
+I:\____-_2016 Projects_\03.Base64Converter\Base64Converter\obj\Release\JSONConverter.exe
+I:\____-_2016 Projects_\03.Base64Converter\Base64Converter\obj\Release\JSONConverter.pdb
+I:\____-_2016 Projects_\Image-to-Base64_-_Base64-to-Image-Converter\Image-to-Base64_-_Base64-to-Image-Converter\obj\Release\Image-to-Base64_-_Base64-to-Image-Converter.csprojResolveAssemblyReference.cache
+I:\____-_2016 Projects_\Image-to-Base64_-_Base64-to-Image-Converter\Image-to-Base64_-_Base64-to-Image-Converter\obj\Release\Base64Converter.Base64Converter.resources
+I:\____-_2016 Projects_\Image-to-Base64_-_Base64-to-Image-Converter\Image-to-Base64_-_Base64-to-Image-Converter\obj\Release\Image-to-Base64_-_Base64-to-Image-Converter.csproj.GenerateResource.Cache
+I:\____-_2016 Projects_\Image-to-Base64_-_Base64-to-Image-Converter\Image-to-Base64_-_Base64-to-Image-Converter\bin\Release\Image-to-Base64_-_Base64-to-Image-Converter.exe.config
+I:\____-_2016 Projects_\Image-to-Base64_-_Base64-to-Image-Converter\Image-to-Base64_-_Base64-to-Image-Converter\bin\Release\Image-to-Base64_-_Base64-to-Image-Converter.exe
+I:\____-_2016 Projects_\Image-to-Base64_-_Base64-to-Image-Converter\Image-to-Base64_-_Base64-to-Image-Converter\bin\Release\Image-to-Base64_-_Base64-to-Image-Converter.pdb
+I:\____-_2016 Projects_\Image-to-Base64_-_Base64-to-Image-Converter\Image-to-Base64_-_Base64-to-Image-Converter\obj\Release\ImageToBase64.Properties.Resources.resources
+I:\____-_2016 Projects_\Image-to-Base64_-_Base64-to-Image-Converter\Image-to-Base64_-_Base64-to-Image-Converter\obj\Release\Image-to-Base64_-_Base64-to-Image-Converter.exe
+I:\____-_2016 Projects_\Image-to-Base64_-_Base64-to-Image-Converter\Image-to-Base64_-_Base64-to-Image-Converter\obj\Release\Image-to-Base64_-_Base64-to-Image-Converter.pdb
